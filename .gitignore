@@ -1,0 +1,24 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.log
+
+# Visual Studio
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet
+packages/
+*.nupkg
+
+# ASP.NET
+appsettings.Development.json
